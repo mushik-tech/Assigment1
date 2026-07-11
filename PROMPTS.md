@@ -1,20 +1,13 @@
-# PROMPTS.md
+# AI Prompt(s) Used for the Placeholder Section
 
-## AI Prompt 1 – Placeholder Section
+## Prompt
 
-Create a responsive placeholder section for a conference landing page using HTML and CSS. The section should have a light purple background, a purple dashed border, rounded corners, centered content, and display the heading "Something Missing?" with the subtitle "Generate a relevant section with AI".
-
----
-
-## AI Prompt 2 – Footer Section
-
-Create a responsive footer for a conference landing page using HTML and CSS.
+Create a responsive Newsletter Signup section for a DevConf 2026 landing page using HTML and CSS.
 
 Requirements:
-- Logo on the left
-- Social media icons on the right
-- A horizontal divider between the top and bottom sections
-- Copyright message below the divider
-- Use Flexbox for alignment
-- Add hover effects for the social media icons
-- Match a modern Figma design with a dark background
+- Replace the "Something Missing?" placeholder with a new section.
+- The section should match the DevConf 2026 theme.
+- Include a title, a short description, an email input field, and a Subscribe button.
+- Use a modern UI with a light purple background, a purple dashed border, rounded corners, and centered content.
+- Make the section fully responsive using HTML5 and CSS3.
+- Keep the design visually consistent with the rest of the landing page.

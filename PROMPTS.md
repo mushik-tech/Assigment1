@@ -10,4 +10,4 @@ Requirements:
 - Include a title, a short description, an email input field, and a Subscribe button.
 - Use a modern UI with a light purple background, a purple dashed border, rounded corners, and centered content.
 - Make the section fully responsive using HTML5 and CSS3.
-- Keep the design visually consistent with the rest of the landing page.
+- Keep the design visually consistent with the rest of the landing page.d

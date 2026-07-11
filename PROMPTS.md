@@ -1,16 +1,20 @@
 # PROMPTS.md
 
-# AI Prompts Used
+## AI Prompt 1 – Placeholder Section
 
-## Prompt 1
-Create a responsive HTML section for an AI placeholder with a purple dashed border, centered heading, and subtitle for a conference landing page.
+Create a responsive placeholder section for a conference landing page using HTML and CSS. The section should have a light purple background, a purple dashed border, rounded corners, centered content, and display the heading "Something Missing?" with the subtitle "Generate a relevant section with AI".
 
-## Prompt 2
-Generate modern CSS for the AI placeholder section matching a Figma design. Use a light purple background, rounded corners, and centered content.
+---
 
-## Prompt 3
-Create a responsive footer with:
+## AI Prompt 2 – Footer Section
+
+Create a responsive footer for a conference landing page using HTML and CSS.
+
+Requirements:
 - Logo on the left
 - Social media icons on the right
-- A horizontal divider
-- Copyright text below
+- A horizontal divider between the top and bottom sections
+- Copyright message below the divider
+- Use Flexbox for alignment
+- Add hover effects for the social media icons
+- Match a modern Figma design with a dark background
